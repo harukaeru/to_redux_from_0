@@ -5,4 +5,8 @@ This tutorial does not support people who don't know about command line or how t
 
 ```javascript
 $ node hello.js
+Hello World
+2
+4
+6
 ```
