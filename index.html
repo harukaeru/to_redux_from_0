@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <script src="https://unpkg.com/babel-standalone@6.23.1/babel.js"></script>
+        <script>
+            var input = 'const a = 1'
+            var output = Babel.transform(input, { presets: ['es2015'] }).code
+            console.log(output)
+        </script>
+    </head>
+</html>
