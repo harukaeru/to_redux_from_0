@@ -8,7 +8,7 @@ For this, initialize `package.json`, the manager of JavaScript libraries.
 $ npm init --yes
 ```
 
-You can see how it is. However you don't need to know why it is yet.
+You can see how it is. However you don't need to know why it is, yet.
 ```sh
 $ cat package.json
 ```
