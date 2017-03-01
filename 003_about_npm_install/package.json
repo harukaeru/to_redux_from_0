@@ -1,0 +1,16 @@
+{
+  "name": "003_about_npm_install",
+  "version": "1.0.0",
+  "description": "```javascript // Install this `lodash` (in this case) to use the library here location. $ npm install lodash --save $ node hello.js",
+  "main": "hello.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
