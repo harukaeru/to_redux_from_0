@@ -1,5 +1,5 @@
 # requires
-```sh
+```javascript
 $ node hello.js
 { one: 1 }
 ---------
