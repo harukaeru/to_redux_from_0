@@ -25,8 +25,8 @@ store.subscribe(() =>
 store.dispatch({ type: 'ADD_TODO', text: 'Buy eggs' })
 store.dispatch({ type: 'ADD_TODO', text: 'Eat eggs' })
 store.dispatch({ type: 'ADD_TODO', text: 'Throw away' })
-store.dispatch({ type: 'ADD_TODO', text: 'Homo' })
 
+// Same up to here source of 012
 
 class Foo extends Component {
   render() {
