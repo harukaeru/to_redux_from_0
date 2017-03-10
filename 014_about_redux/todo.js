@@ -5,7 +5,7 @@ const todos = (state=[], action) => {
     case 'ADD_TODO': {
       // You must copy states because if did not, you can not watch object histories.
       const copiedState = state.slice()
-      copiedstate.push(action.text)
+      copiedState.push(action.text)
       return copiedState
     }
     default : {
